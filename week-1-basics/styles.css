@@ -55,3 +55,9 @@ nav ul li a {
     color: gray;
     font-size: 18px;
 }
+
+.div img-container {
+    margin-top: 50px;
+    height: 70px;
+    
+}
